@@ -1,5 +1,14 @@
 # Ignorar carpetas __pycache__
 __pycache__/
+**/__pycache__/
 
 # Ignorar archivos compilados de Python
 *.pyc
+
+# Entornos virtuales
+venv/
+.venv/
+
+# IDE settings
+.vscode/
+.idea/
